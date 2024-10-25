@@ -11,7 +11,7 @@ body {
 h1, p{
     text-align: center;
     color: red;
-    border-bottom: solid 2px redpurple;
+    border-bottom: solid 2px yellowgreen;
     padding: 20px;
     font-size: 32px;
     box-shadow: 1px 1px 10px rgb(197, 71, 235);
